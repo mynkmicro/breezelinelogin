@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://breezelinelogin.readthedocs.io/en/latest/'
+html_baseurl = 'https://breezelineguide.readthedocs.io/en/latest/'
