@@ -12,11 +12,6 @@ Managing your internet, cable, and communication services online has become an e
 
 Many users face confusion while signing in, resetting passwords, or managing billing details. This article focuses on practical solutions and secure account practices so you can access your services without interruption.
 
-.. image:: login-now.gif
-   :alt: My Project Logo
-   :width: 400px
-   :align: center
-   :target: https://bzl.officialredir.com/
 
 
 Understanding Your Breezeline Account
